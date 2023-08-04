@@ -1,0 +1,127 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: medium;
+    margin: 0;
+    
+}
+
+#página {
+    margin: auto;
+    margin-top: 65px;
+    margin-bottom: 30px;
+    width: 1008px;
+    height: 433px
+
+}
+
+main {
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#texto h1 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 51px;
+    line-height: 56px;
+    font-weight: normal;
+}
+#texto h1 span {
+    color: #89C5CC;
+    font-weight: bold;
+}
+
+#texto p {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    line-height: 28px;
+}
+
+header {
+    font-family: 'Mulish', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+    margin-bottom: 58px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 48px;
+}
+
+li {
+    opacity: 0.5;
+    color: #1F1534;
+}
+
+li:hover {
+    font-weight: bold;
+    opacity: 1;
+    color: #1F1534;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    font-size: 16px;
+    background-color: #69B99D;
+    border: 0px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 179px;
+    padding: 20px;
+    border-radius: 5px;
+    justify-content: center;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #478f75;
+}
+
+button .texto {
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: medium;
+}
+
+section p {
+    color: #7D7987;
+}
+
+footer {
+    color: black;
+    margin-top: 300px;
+    margin-left: 344px;
+    margin-right: 344px;
+    bottom: 30px;
+
+}
+
+footer a {
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+footer a:hover {
+    font-weight: bold;
+    opacity: 1;
+    color: #1F1534;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
