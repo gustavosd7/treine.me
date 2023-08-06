@@ -8,5 +8,5 @@ Um pequeno projeto que eu fiz para uma aula usando HTML e CSS, de uma empresa qu
 A small project I made for a class using HTML and CSS, from a company that does custom workouts.
 
 <h2>Tecnologias / Technologies</h2>
-HTML <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw0esEp6tyJMjWuF0H1lA513&ust=1691375312991000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCODl3Jf-xoADFQAAAAAdAAAAABAD"> <br>
+HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"> <br>
 CSS
