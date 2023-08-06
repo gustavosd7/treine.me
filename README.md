@@ -1,5 +1,5 @@
 <div align="center">
-<h1>treine.me</h1>h1>
+<h1>treine.me</h1>
 <h2>Descrição | Description ✨</h2>
 <p>Um pequeno projeto que eu fiz para uma aula usando HTML e CSS, de uma empresa que faz treinos personalizados.</p>
 <p>A small project I made for a class using HTML and CSS, from a company that does custom workouts.</p>
