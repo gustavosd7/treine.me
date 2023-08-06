@@ -1,5 +1,5 @@
 <h1>treine.me<h1>
-![image](https://github.com/gustavosd7/treine.me/assets/127472686/f511efd5-199f-4716-b62c-e171d012cadd)
+![image](https://github.com/gustavosd7/treine.me/assets/127472686/fc764c43-df41-4ade-b1ff-027f7270ebeb)
 
 <h2>Descrição | Description</h2>
 
