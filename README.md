@@ -8,5 +8,5 @@
 HTML <br>
 CSS
 <h2>Links 🔗</h2>
-<p><a href="https://treine-me-two.vercel.app/">Esse projeto / This Project<a></p>
+<p><a href="https://treine-me-two.vercel.app/" target="_blank">Esse projeto / This Project<a></p>
 </div>
