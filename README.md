@@ -9,7 +9,7 @@
 <p>A small project I made for a class using HTML and CSS, from a company that does custom workouts.</p>
 
 <h2>Tecnologias / Technologies 🚀</h2>
-HTML <img src="https://github.com/gustavosd7/treine.me/assets/127472686/8a450ab9-5ff6-4e76-9860-db71b2509d55" style="width: 10px; height: 10px;"> <br>
+HTML <img src="https://github.com/gustavosd7/treine.me/assets/127472686/8a450ab9-5ff6-4e76-9860-db71b2509d55" style="width: 50px; height: 50px;"> <br>
 CSS
 
 <h2>Links 🔗</h2>
